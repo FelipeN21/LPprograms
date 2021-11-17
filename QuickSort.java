@@ -7,7 +7,7 @@ Código de autoria : https://www.geeksforgeeks.org/quick-sort/ upado no git so p
 // Java implementation of QuickSort 
 import java.io.*;
   
-class Main{
+class QuickSort{
       
 // A utility function to swap two elements
 static void swap(int[] arr, int i, int j)
