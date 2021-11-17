@@ -1,3 +1,9 @@
+/*
+Código de autoria : https://www.geeksforgeeks.org/quick-sort/ upado no git so para fins de armazenamento
+
+*/
+
+
 // Java implementation of QuickSort 
 import java.io.*;
   
